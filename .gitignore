@@ -1,0 +1,10 @@
+
+bin/cn/Mchaptim/SurvivalCore/Main.class
+bin/cn/Mchaptim/SurvivalCore/Listeners.class
+bin/cn/Mchaptim/SurvivalCore/Config.class
+bin/cn/Mchaptim/SurvivalCore/Commands.class
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.project
+.gitattributes
+.classpath

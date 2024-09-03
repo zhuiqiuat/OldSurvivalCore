@@ -1,0 +1,7 @@
+name: SurvivalCore
+main: cn.Mchaptim.SurvivalCore.Main
+version: "1.0-Mchaptim.cn"
+api-version: "1.13"
+softdepend: [Multiverse-Core,Vault]
+commands:
+   surcore:

@@ -1,0 +1,13 @@
+MainMenu:
+  Command: ""
+Arena:
+  Name: Arena
+  JoinCost: 15
+  HealCost: 5
+  CoolDown: 5000
+Portal:
+  Nether:
+  - ""
+NickName:
+  BadWord:
+  
